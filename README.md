@@ -10,7 +10,9 @@
 
 # This application is purely made of JAVA .
 
-# It is Recommended to use this app in Command Promt or CMD 
+# Please Complie and Execute Notepad_Code.java file after generating the pull requests .
+
+# It is hightly recommended to use this app in Command Promt or CMD 
 
 # If you caught any error you can text me on my LinkedIn Account .
 
